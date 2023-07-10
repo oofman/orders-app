@@ -18,3 +18,4 @@ LANDING PAGE
     <div>Error: {{$error}}</div>
   @endif
 </div>
+@endsection

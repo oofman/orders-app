@@ -41,3 +41,4 @@
 @if (isset($error))
   <div>Error: {{$error}}</div>
 @endif
+@endsection
