@@ -18,11 +18,13 @@ These will be set in a parameter store like: AWS Parameter Store
 
 ## Setup
 
-1 - Clone the repo to your local
+1 - Clone the [repo](https://github.com/oofman/orders-app.git) to your local
 
-2 - run `composer install` and or `composer update`
+2 - run `composer install` and/or `composer update`
 
-3 - run `php artisan serve`
+3 - rename `.env.example` to `.env` and fill in the required variables.
+
+4 - run `php artisan serve`
 
 ## Missing Elements
 
