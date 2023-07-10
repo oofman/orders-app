@@ -22,7 +22,7 @@ These will be set in a parameter store like: AWS Parameter Store
 
 2 - run `composer install` and/or `composer update`
 
-3 - rename `.env.example` to `.env` and fill in the required variables.
+3 - in the root, rename `.env.example` to `.env` and fill in the required variables.
 
 4 - run `php artisan serve`
 
